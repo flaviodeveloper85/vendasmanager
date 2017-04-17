@@ -1,0 +1,236 @@
+body{ background-color: #f5f5f5 !important; }
+
+.main{
+	height: 500px;
+}
+
+.header{
+	padding:13px;
+	color:silver;
+	font-size: 12px
+}
+
+.top{
+
+	font-size: 90px;
+	font-family: impact;
+	text-align: center;
+	color:#5f5f5f;
+	margin-top: 50px;
+}
+
+.box-login{
+	font-size: 15px;
+	text-align: left;
+
+}
+
+.box-login button{
+
+	float: right;
+}
+
+.menu select{
+	background: white;
+}
+
+.box-form-user input{
+	background: white;	
+}
+
+.table-striped{
+	background: white;		
+}
+
+.box-produto input{
+	background: white;			
+}
+
+.box-form-venda input{
+	background: white;	
+}
+
+.box-form-venda textarea{
+	background: white;		
+}
+
+.box-venda{
+	background: white;		
+}
+
+.box-edit-conta input{
+	background: white;			
+}
+
+.admin-header{
+	background-color: #2e4560;
+	font-family: verdana;
+	font-size: 12px;
+	color:#e0e0e0;
+	border-bottom: 5px solid #e97416;
+	box-shadow: 10px 5px 5px silver;
+	font-weight: bold;
+	height: 40px;
+	padding: 9px;
+}
+
+.footer{
+	background-color: #2e4560;
+	font-family: verdana;
+	font-size: 12px;
+	color:#e0e0e0;
+	border-top: 5px solid #e97416;
+	box-shadow: 5px 5px 15px 12px silver;
+	font-weight: bold;
+	padding: 29px;
+}
+
+
+.admin-header a{
+	color:#e0e0e0;
+}
+
+.admin-header a:hover{
+	color:#e0e0e0;
+	text-decoration: none;
+}
+
+#menu{
+	font-size: 17px
+}
+
+
+.table-vend{
+
+	font-size: 12px ;
+	
+}
+
+.box-item{
+	border: 1px solid silver;
+	background:white;
+	margin-right:30px;
+	margin-bottom:20px;
+	float:left;
+	padding-top: 25px;
+	width:110px;
+	height:110px;
+	text-align:center;
+	font-size: 10px;
+
+}
+
+.box-item:hover{
+	border: 1px dashed #686868;
+	
+}
+
+select option{
+	padding: 4px;
+}
+
+.status{
+	cursor: pointer;
+}
+
+/* tootip */
+.ui-tooltip, .arrow:after {
+    background: black !important;
+    border: 2px solid white;
+  }
+  .ui-tooltip {
+    padding: 10px 20px;
+    color: white !important;
+    border-radius: 20px;
+    font: bold 10px "Helvetica Neue", Sans-Serif !important;
+    text-transform: uppercase;
+    box-shadow: 0 0 7px black;
+  }
+  .arrow {
+    width: 70px;
+    height: 16px;
+    overflow: hidden;
+    position: absolute;
+    left: 50%;
+    margin-left: -35px;
+    bottom: -16px;
+  }
+  .arrow.top {
+    top: -16px;
+    bottom: auto;
+  }
+  .arrow.left {
+    left: 20%;
+  }
+  .arrow:after {
+    content: "";
+    position: absolute;
+    left: 20px;
+    top: -20px;
+    width: 25px;
+    height: 25px;
+    box-shadow: 6px 5px 9px -9px black;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  .arrow.top:after {
+    bottom: -20px;
+    top: auto;
+  }
+.add-obs{
+	cursor: pointer;
+}
+
+.textarea-obs{
+	border:0px solid;
+
+}
+
+.ranking tr:first-child{
+	font-weight: bold;
+	font-size: 15px;
+	
+
+}
+
+.table-bordered th{
+	background: #337ab7;
+	color:white;
+}
+
+.table-bordered td{
+	background: white;
+}
+
+.table-bordered th{
+	text-align: center;
+
+}
+
+table users a{
+	
+}
+
+.status-success{
+	background: #e8f6d5 !important; 
+	color:#7fa135;
+}
+
+.status-fail{
+	background: #f8dcdc !important; 
+	color:#ca6464;
+}
+
+.status-warning{
+	background: #f8f2cc !important; 
+	color:#d6bf23;
+}
+
+.esqueci-senha{
+	cursor: pointer;
+}
+
+.muda_status{
+	cursor: pointer;
+}
