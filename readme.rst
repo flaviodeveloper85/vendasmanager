@@ -4,7 +4,7 @@ SELLCONTROL - Controle de Vendas
 
 SELLCONTROL foi desenvolvido para facilitar a rotina de empresas do segmento de vendas, onde o proprio faz uma centralizaçao das informaçoes atraves das
 contas dos vendedores que registram suas vendas e onde um administrador com sua conta consegue ter o controle do que esta sendo negociado com todas as
-informaçoes importantes como preço de venda, nome do cliente etc.
+informaçoes importantes como preço de venda, nome do cliente etc. (desenvolvido com codeigniter)
 
 
 *******************
